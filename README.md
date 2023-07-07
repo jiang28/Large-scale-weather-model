@@ -1,6 +1,6 @@
 # Large-scale-weather-model
 
-## Conference Info
+## Conference Information
 ### AAAI 2024 [Link](https://aaai.org/aaai-conference/)
 #### Date: Feb 20-27, 2024, Vancouver, Canada
 
